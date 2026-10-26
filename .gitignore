@@ -1,0 +1,21 @@
+# Compilación
+build/
+cmake-build-*/
+*.o
+*.d
+*.exe
+/huffman
+
+# Archivos generados al probar el programa
+*.huf
+*.orig
+
+# Guía personal para commitear (no se sube)
+/GUIA_COMMIT.md
+
+# IDEs
+.vscode/
+.idea/
+.settings/
+.project
+.cproject
